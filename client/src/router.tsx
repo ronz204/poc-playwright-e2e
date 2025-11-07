@@ -1,10 +1,9 @@
-import { App } from "./App";
+import { PlayPage } from "@Modules/Play/PlayPage";
+import { RootPage } from "@Modules/Root/RootPage";
 import { createBrowserRouter } from "react-router";
 
 // https://reactrouter.com/start/data/installation
 export const Router = createBrowserRouter([
-  {
-    path: "/",
-    element: <App />,
-  },
+  { path: "/", Component: RootPage },
+  { path: "/play", Component: PlayPage },
 ]);

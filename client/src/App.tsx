@@ -1,5 +1,5 @@
 import type { JSX } from "react";
 
 export const App = (): JSX.Element => {
-  return <div>Hello, World!</div>;
+  return <div className="font-black">Hello, World!</div>;
 };

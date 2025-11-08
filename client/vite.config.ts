@@ -8,6 +8,7 @@ export default defineConfig({
   resolve: {
     alias: {
       "@Modules": "/src/Modules",
+      "@Services": "/src/Services",
       "@Atoms": "/src/Components/Atoms",
       "@Layouts": "/src/Components/Layouts",
       "@Molecules": "/src/Components/Molecules",

@@ -1,6 +1,6 @@
 import type { JSX } from "react";
-import { RootPresentation } from "../Components/RootPresentation";
+import { RootPresenter } from "../Components/RootPresenter";
 
 export const RootContainer = (): JSX.Element => {
-  return <RootPresentation />;
+  return <RootPresenter />;
 };

@@ -1,6 +1,6 @@
 import type { JSX } from "react";
 
-export const RootPresentation = (): JSX.Element => {
+export const RootPresenter = (): JSX.Element => {
   return (
     <div className="p-4">
       <p className="font-bold">

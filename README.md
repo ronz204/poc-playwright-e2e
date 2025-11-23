@@ -1,1 +1,1 @@
-### POC Playwright
+### POC Playwright E2E | Pokemon

@@ -1,1 +1,1 @@
-### POC Playwright E2E | Pokemon
+### Proof of Concepts | Playwright E2E
